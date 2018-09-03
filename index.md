@@ -3,8 +3,8 @@
 	<h2>What you get</h2>
 	<p>
 	<ul>
-		<li>Shopify e-commerce online store</li>
-		<li>Marketing page content and product descriptions</li>
+		<li>Shopify store website</li>
+		<li>Marketing content and product listings</li>
 		<li>SEO to get your website at the top of Google search results</li>
 		<li>Setup for domain name and host to go live</li>
 		<li>Training on how to use your website and how to track performance</li>
@@ -15,7 +15,7 @@
 	<p>ZHEN Premium Knife</p>
 	<p><a href="http://www.zhenpremiumknife.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 	src="images/shopify_zhen.jpg"/></a></p>
 	<h2>Contact</h2>
-	<p>Tell me more about your business for a price quote. Hablo español.</p>
+	<p>Tell me more about your business for a price quote. <br>Hablo Español.</p>
 	<center><form method="POST" action="https://formspree.io/edwincheng097@gmail.com">
     	<input type="email" name="email" placeholder="E-mail"><br>
     	<textarea name="message" placeholder="Message"></textarea><br>
