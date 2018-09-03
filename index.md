@@ -13,11 +13,10 @@
 	<p><a href="http://www.katsuracutlery.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 		src="images/shopify_katsura.jpg"/></a></p>
 	<p><br><br>ZHEN Premium Knife<br><br></p>
 	<p><a href="http://www.zhenpremiumknife.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 	src="images/shopify_zhen.jpg"/></a></p>
-	<form action="https://formspree.io/edwincheng097@gmail.com"
-      method="POST">
-    Email: <input type="email" name="email" placeholder="E-mail">
-    Message: <textarea name="message" placeholder="Message"></textarea>
+	<form method="POST" action="https://formspree.io/edwincheng097@gmail.com">
+    	<input type="email" name="email" placeholder="E-mail">
+    	<textarea name="message" placeholder="Message"></textarea>
 	<button type="submit">Send</button>
-</form>
+	</form>
 </body>
 </html>
