@@ -17,7 +17,7 @@
 	<h2>Contact</h2>
 	<p>Tell me more about your business for a price quote. <br>Hablo Español.</p>
 	<center><form method="POST" action="https://formspree.io/edwincheng097@gmail.com">
-	<input type="text" name="name" placeholder="Name" style="height:23px; width;450px" maxlength="50"><br><br>	
+	<input type="text" name="name" placeholder="Name" style="height:23px; width:450px" maxlength="50"><br><br>	
     	<input type="email" name="email" placeholder="E-mail" style="height:23px; width:450px" maxlength="50"><br><br>
     	<textarea name="message" placeholder="Comments" style="height:130px; width:450px" maxlength="800"></textarea><br><br>
 	<input type="hidden" name="_subject" value="wincheng.github.io" />
