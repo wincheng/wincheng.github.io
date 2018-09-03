@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 	<p>I offer
