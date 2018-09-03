@@ -15,8 +15,8 @@
 	<p><a href="http://www.zhenpremiumknife.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 	src="images/shopify_zhen.jpg"/></a></p>
 	<form action="https://formspree.io/edwincheng097@gmail.com"
       method="POST">
-    <input type="email" name="email" placeholder="E-mail">
-    <textarea name="message" placeholder="Message"></textarea>
+    Email: <input type="email" name="email" placeholder="E-mail">
+    Message: <textarea name="message" placeholder="Message"></textarea>
 	<button type="submit">Send</button>
 </form>
 </body>
