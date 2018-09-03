@@ -10,9 +10,9 @@
 		<li>Training on how to use your website and how to track performance</li>
 	</ul></p>
 	<h2>Featured Work</h2>
-	<p>KATSURA Cutlery<br><br></p>
+	<p>KATSURA Cutlery</p>
 	<p><a href="http://www.katsuracutlery.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 		src="images/shopify_katsura.jpg"/></a></p>
-	<p><br><br>ZHEN Premium Knife<br><br></p>
+	<p>ZHEN Premium Knife</p>
 	<p><a href="http://www.zhenpremiumknife.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 	src="images/shopify_zhen.jpg"/></a></p>
 	<h2>Contact</h2>
 	<p>Tell me more about your business for a price quote. Hablo español.</p>
