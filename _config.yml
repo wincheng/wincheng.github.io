@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
-jekyll-seo-tag
+plugins:
+  - jekyll-seo-tag
 title: Wincheng
 description: I am Edwin Cheng&#44 an E-commerce Associate in Houston&#44 and I specialize in making Shopify stores for e-commerce businesses.
