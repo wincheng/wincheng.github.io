@@ -3,7 +3,6 @@
 		{% if site.google_verify %}
    		 <meta name="google-site-verification" content="XYhbmGbQ4p9sRCQi3kY7yZHN7p3YPPcOQKZeFUg8EV0" />
 		{% endif %}
-    		{% include head.html %}
     		{% seo %}
 	</head>
 	<body>
