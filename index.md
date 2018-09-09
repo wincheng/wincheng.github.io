@@ -1,8 +1,8 @@
 <html>
 	<head>
+		<meta name="google-site-verification" content="XYhbmGbQ4p9sRCQi3kY7yZHN7p3YPPcOQKZeFUg8EV0" />
     		{% include head.html %}
     		{% seo %}
-		<meta name="google-site-verification" content="XYhbmGbQ4p9sRCQi3kY7yZHN7p3YPPcOQKZeFUg8EV0" />
 	</head>
 	<body>
 		<h2>What you get</h2>
