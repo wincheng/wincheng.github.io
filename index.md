@@ -21,7 +21,7 @@
 		<p>ZHEN Premium Knife</p>
 		<p><a href="http://www.zhenpremiumknife.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-35" 			src="images/shopify_zhen.jpg"/></a></p>
 		<h2>Contact</h2>
-		<p>Tell me more about your business for a price quote. <br>Hablo Español.</p>
+		<p>Tell me more about your business for a price quote. <br><br>Hablo Español.</p>
 		<center><form method="POST" action="https://formspree.io/edwincheng097@gmail.com">
 		<input type="text" name="name" placeholder="Name" style="height:23px; width:450px" maxlength="50"><br><br>	
     		<input type="email" name="email" placeholder="E-mail" style="height:23px; width:450px" maxlength="50"><br><br>
