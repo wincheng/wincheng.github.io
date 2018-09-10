@@ -6,11 +6,11 @@
     		{% seo %}
 	</head>
 	<body>
-		<h2>Services</h2>
+		<h2>What you get</h2>
 		<p>
 		<ul>
-			<li>Online store with Shopify</li>
-			<li>Marketing copy and product listings</li>
+			<li>Online store with Shopify's easy to use interface</li>
+			<li>Marketing copy and product listings to increase conversion rate</li>
 			<li>SEO to get your website at the top of Google search results</li>
 			<li>Setup for domain name and host to go live</li>
 			<li>Training on how to use your website and how to track performance</li>
